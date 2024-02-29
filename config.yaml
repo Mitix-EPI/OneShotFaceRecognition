@@ -1,0 +1,11 @@
+data_split: 0.95
+
+img_size: 128
+
+embedding_dim: 128
+triplet_epochs: 10
+triplet_batch_size: 64
+triplet_learning_rate: 0.0001
+
+prediction_epochs: 25
+prediction_batch_size: 64

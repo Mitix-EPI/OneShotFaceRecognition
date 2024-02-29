@@ -1,0 +1,6 @@
+tensorflow
+matplotlib
+opencv-python
+pyyaml # configuration file
+opendatasets # for downloading datasets (in our case, the dataset is from Kaggle)
+face_recognition # to help us with face cropping

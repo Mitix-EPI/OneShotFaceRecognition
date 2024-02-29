@@ -1,0 +1,4 @@
+face-recognition-dataset
+results_v1
+**/triplet_weights/
+**/prediction_model/
